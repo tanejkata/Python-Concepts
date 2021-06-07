@@ -1,10 +1,9 @@
 from itertools import product
-
 a = [1,2]
 
 b = [3]
 
-prod = product(a,b)
+prod = product(a,biter1)
 
 print("Give cross product  : ",list(prod))
 a = [1,2]
